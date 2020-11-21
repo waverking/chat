@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "5fb157d73ae1e23c881e4854"
+  },
+  "name": "AaA",
+  "users": [
+    {
+      "_id": "5fb13a3957a6d91af44c786f",
+      "username": "waver",
+      "password": "88341358",
+      "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+    },
+    {
+      "_id": "5fb149fe9661f32e5cafccef",
+      "username": "king",
+      "password": "1234",
+      "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+    }
+  ],
+  "dialogue": [
+    {
+      "user": {
+        "_id": "5fb13a3957a6d91af44c786f",
+        "username": "waver",
+        "password": "88341358",
+        "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+      },
+      "content": "你们好啊",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb13a3957a6d91af44c786f",
+        "username": "waver",
+        "password": "88341358",
+        "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+      },
+      "content": "ssddds'd",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "十三点",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb157333ae1e23c881e4850",
+        "username": "3333",
+        "password": "333",
+        "avator": "http://feizhuliu.vipyl.com/attached/image/20140406/20140406142795479547.jpg"
+      },
+      "content": "兼任",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb13a3957a6d91af44c786f",
+        "username": "waver",
+        "password": "88341358",
+        "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+      },
+      "content": "hahaa",
+      "date": "2020/11/16 09:43"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "吉里吉里",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "理论课",
+      "date": ""
+    }
+  ]
+}]

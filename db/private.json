@@ -1,0 +1,613 @@
+[{
+  "_id": {
+    "$oid": "5fb15423c1696e16ece76c4c"
+  },
+  "myself": {
+    "_id": "5fb149fe9661f32e5cafccef",
+    "username": "king",
+    "password": "1234",
+    "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+  },
+  "friend": {
+    "_id": "5fb13a3957a6d91af44c786f",
+    "username": "waver",
+    "password": "88341358",
+    "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+  },
+  "dialogue": [
+    {
+      "user": {
+        "_id": "5fb13a3957a6d91af44c786f",
+        "username": "waver",
+        "password": "88341358",
+        "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+      },
+      "content": "as ",
+      "date": "2020/11/16 24:26"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "aasasas",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb13a3957a6d91af44c786f",
+        "username": "waver",
+        "password": "88341358",
+        "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+      },
+      "content": "waver",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "as ",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb13a3957a6d91af44c786f",
+        "username": "waver",
+        "password": "88341358",
+        "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+      },
+      "content": "hello",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "as",
+      "date": "2020/11/17 21:42"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "李锐墉",
+      "date": "2020/11/17 22:36"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "李锐基",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "你好啊",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "我不敢",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "sssss",
+      "date": "2020/11/17 23:03"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "还哈",
+      "date": "2020/11/17 23:38"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "你咋的了",
+      "date": "2020/11/17 23:38"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "哥哥",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "棉袜",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "亚古兽",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "test",
+      "date": "2020/11/18 00:37"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "test",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "fff",
+      "date": "2020/11/18 00:47"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "? ubuybyby",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "jjjj",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "test",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "fgg",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "testshssh",
+      "date": "2020/11/18 00:55"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fb15423c1696e16ece76c4d"
+  },
+  "myself": {
+    "_id": "5fb13a3957a6d91af44c786f",
+    "username": "waver",
+    "password": "88341358",
+    "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+  },
+  "friend": {
+    "_id": "5fb149fe9661f32e5cafccef",
+    "username": "king",
+    "password": "1234",
+    "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+  },
+  "dialogue": [
+    {
+      "user": {
+        "_id": "5fb13a3957a6d91af44c786f",
+        "username": "waver",
+        "password": "88341358",
+        "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+      },
+      "content": "as ",
+      "date": "2020/11/16 24:26"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "aasasas",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb13a3957a6d91af44c786f",
+        "username": "waver",
+        "password": "88341358",
+        "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+      },
+      "content": "waver",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "as ",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb13a3957a6d91af44c786f",
+        "username": "waver",
+        "password": "88341358",
+        "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+      },
+      "content": "hello",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "as",
+      "date": "2020/11/17 21:42"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "李锐墉",
+      "date": "2020/11/17 22:36"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "李锐基",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "你好啊",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "我不敢",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "sssss",
+      "date": "2020/11/17 23:03"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "还哈",
+      "date": "2020/11/17 23:38"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "你咋的了",
+      "date": "2020/11/17 23:38"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "哥哥",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "棉袜",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "亚古兽",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "test",
+      "date": "2020/11/18 00:37"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "test",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "fff",
+      "date": "2020/11/18 00:47"
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "? ubuybyby",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "jjjj",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "test",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "fgg",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb149fe9661f32e5cafccef",
+        "username": "king",
+        "password": "1234",
+        "avator": "http://pic.lvmama.com/uploads/pc/place2/2016-06-02/f0980ca5-7e4c-43e2-b57c-18e9475d71e3.jpg"
+      },
+      "content": "testshssh",
+      "date": "2020/11/18 00:55"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fb157483ae1e23c881e4852"
+  },
+  "myself": {
+    "_id": "5fb157333ae1e23c881e4850",
+    "username": "3333",
+    "password": "333",
+    "avator": "https://tse4-mm.cn.bing.net/th/id/OIP.g1wH7K9za94D5sCK2fqVbQHaEo?pid=Api&rs=1"
+  },
+  "friend": {
+    "_id": "5fb13a3957a6d91af44c786f",
+    "username": "waver",
+    "password": "88341358",
+    "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+  },
+  "dialogue": [
+    {
+      "user": {
+        "_id": "5fb157333ae1e23c881e4850",
+        "username": "3333",
+        "password": "333",
+        "avator": "http://feizhuliu.vipyl.com/attached/image/20140406/20140406142795479547.jpg"
+      },
+      "content": "asas",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb157333ae1e23c881e4850",
+        "username": "3333",
+        "password": "333",
+        "avator": "http://feizhuliu.vipyl.com/attached/image/20140406/20140406142795479547.jpg"
+      },
+      "content": "aasa",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb157333ae1e23c881e4850",
+        "username": "3333",
+        "password": "333",
+        "avator": "http://feizhuliu.vipyl.com/attached/image/20140406/20140406142795479547.jpg"
+      },
+      "content": "hello",
+      "date": ""
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fb157483ae1e23c881e4853"
+  },
+  "myself": {
+    "_id": "5fb13a3957a6d91af44c786f",
+    "username": "waver",
+    "password": "88341358",
+    "avator": "http://img3.cache.netease.com/photo/0001/2015-02-27/AJFNS7394T8F0001.jpg"
+  },
+  "friend": {
+    "_id": "5fb157333ae1e23c881e4850",
+    "username": "3333",
+    "password": "333",
+    "avator": "https://tse4-mm.cn.bing.net/th/id/OIP.g1wH7K9za94D5sCK2fqVbQHaEo?pid=Api&rs=1"
+  },
+  "dialogue": [
+    {
+      "user": {
+        "_id": "5fb157333ae1e23c881e4850",
+        "username": "3333",
+        "password": "333",
+        "avator": "http://feizhuliu.vipyl.com/attached/image/20140406/20140406142795479547.jpg"
+      },
+      "content": "asas",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb157333ae1e23c881e4850",
+        "username": "3333",
+        "password": "333",
+        "avator": "http://feizhuliu.vipyl.com/attached/image/20140406/20140406142795479547.jpg"
+      },
+      "content": "aasa",
+      "date": ""
+    },
+    {
+      "user": {
+        "_id": "5fb157333ae1e23c881e4850",
+        "username": "3333",
+        "password": "333",
+        "avator": "http://feizhuliu.vipyl.com/attached/image/20140406/20140406142795479547.jpg"
+      },
+      "content": "hello",
+      "date": ""
+    }
+  ]
+}]
